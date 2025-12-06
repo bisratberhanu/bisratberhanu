@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bisrat Negus</h1>
-<h3 align="center">Electrical and Computer Engineering Student from Ethiopia</h3>
+<h3 align="center">Electrical and Computer Engineering Graduate from Ethiopia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisratberhanu" alt="bisratberhanu" /></a> </p>
 
